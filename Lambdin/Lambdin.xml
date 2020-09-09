@@ -1,0 +1,9 @@
+<?xml version='1.0'?>
+<!DOCTYPE book [
+<!ENTITY preface SYSTEM "preface.xml">
+<!-- <!ENTITY chap2 SYSTEM "chap2.xml"> -->
+]>
+<book xmlns="http://docbook.org/ns/docbook" version="5.0">
+	<title>Introduction to Sahidic Coptic</title>
+	&preface;
+</book>
