@@ -79,3 +79,30 @@ a. The Consonants
 ϯ is merely a graphic symbol for ⲧ + ⲓ, but it was the normal way to spell this sequence of sounds. E.g. ϯⲙⲉ village (*time*).
 
 b. The simple vowels
+
+ⲁ like the *a* of *father*. E.g. ⲁϥ [ɑf] meat.
+
+ⲉ like the *e* of *let*. E.g. ϩⲉⲛ [hɛn] some.
+
+ⲏ probably like the *a* of *hate*. E.g. ⲙⲏⲧ [met] ten.
+
+ⲓ like the *i* of *machine*. This vowel is always spelled ⲉⲓ in initial positions: ⲉⲓⲛⲉ [ínɛ] to bring, ⲉⲓⲥ [is] behold. Internally and finally the spelling alternates between ⲓ and ⲉⲓ, but ⲓ is preferred.
+
+ⲟ like the *o* of *log*, *fog*, *dog*, *off*, *on*. E.g. ⲧⲟⲡ [tɔp] edge.
+
+ⲩ does not appear as a simple vowel in Coptic words.
+
+ⲟⲩ is the normal writing of the vowel [u], the *oo* of *food*. E.g. ⲛⲟⲩⲃ [nub] gold.
+
+ⲱ like the *o* of *hope*. E.g. ϩⲱⲡ [hop] to hide.
+
+
+c. Semivowels and dipthongs
+
+The consonatns *y* and *w* of English *yet* and *wet* are often referred to as semivowels because they are the same sounds as the vowels [i] and [u] of *beet* and *boot* very briefly articulated. The Coptic vowels ⲉⲓ (ⲓ) and ⲟⲩ may function as consonants in the same way. E.g. ⲉⲓⲱⲧ [yot] father, ⲟⲩⲟⲡ [wɔp] to become pure.
+
+The seminvowels ⲉⲓ (ⲓ) and ⲟⲩ combine with a preceding simple vowel to form various dipthongs. Many of the dipthongs have more than one spelling; the reader should follow the spelling used in the Lessons. The dipthongs should be pronounced carefully, with the value of the single vowel as given plus a final *y* or *w* as the case many be.
+
+
+
+[1] Brackets are used to indicate phonetic pronunciation in standard phonetic symbols. Do not confuse these with the conventional transcriptions. 
