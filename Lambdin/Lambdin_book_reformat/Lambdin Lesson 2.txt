@@ -28,7 +28,7 @@ The choice between the singular and plural article here is lexical, i.e. it depe
 
 ⲟⲩⲛ- is actually a predicator of existence ("there is, there are"), and the sentence given may also be translated as "There is a monk on the road."
 
-The negative of ⲟⲩⲛ- is ⲙⲛ̄- (also spelled ⲙ̄̄̅ⲙⲛ̅-). In general, an /indefinite/ article is deleted (omitted) in negationin Coptic:
+The negative of ⲟⲩⲛ- is ⲙⲛ̄- (also spelled ⲙ̄̄̅ⲙⲛ̅-). In general, an *indefinite* article is deleted (omitted) in negationin Coptic:
 
 ⲙⲛ̅-ϩⲗ̅ⲗⲟ ϩⲓ ⲧⲉϩⲓⲏ.  There is no monk on the road.
 ⲙⲛ̅-ⲡⲱⲙⲉ ϩⲙ̅ ⲡⲏⲓ.  There is no man in the house.
