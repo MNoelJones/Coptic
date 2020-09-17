@@ -1,0 +1,58 @@
+Lesson 3
+
+3.1 Relative Clauses
+
+A we shall see in subsequent lessons, relative clauses in Coptic exhibit a variety of forms, depending on the type of predication involved. In the present lesson we shall consider only those relative clauses associated with sentences with adverbial  predicates. Note the transformation
+
+ⲠⲢⲰⲘⲈ ϨⲘ̅ ⲠⲎⲒ -> (ⲠⲢⲰⲘⲈ) ⲈⲦ ϨⲘ̅ ⲠⲈⲒ
+
+The man is in the house -> (The man) who is in the house
+
+The relative pronoun ⲈⲦ functions here as the subject of the relative clause; it is not inflected for number or gender:
+
+ⲦⲈⲤϨⲒⲘⲈ ⲈⲦ ϨⲒ ⲦⲈϨⲒⲎ  the woman who is on the road
+Ⲛ̅ϨⲖ̅ⲖⲞ ⲈⲦ ϨⲚ̅ ⲐⲈⲚⲈⲈⲦⲈ  the monks who are in the monastery
+
+Negation is with ⲀⲚ: Ⲛ̅ϨⲖ̅ⲖⲞ ⲈⲦ ϨⲚ̅ ⲐⲈⲚⲈⲈⲦⲈ ⲀⲚ.
+
+Relative clauses cannot be used to modify an indefinite noun. This is an *important general rule* of Coptic.
+
+Any relative clause may be substantivized, i.e. converted to the status of a noun, by prefixing the appropriate form of the definite article:
+
+ⲠⲈⲦ ϨⲘ̅ ⲠⲎⲒ     the one who (he who, that which) is in the house
+ⲦⲈⲦ ⲘⲚ̅ ⲠϢⲎⲢⲈ  the one (f.) who is with the boy
+ⲚⲈⲦ ϨⲒ ⲠϪⲞⲒ    those who (those things which) are on the ship
+
+Such constructions may refer to persons or things, depending on the context.
+
+The relative clause ⲈⲦ Ⲙ̅ⲘⲀⲨ, who (which) is there, is used to express the further demonstrative "that":
+
+ⲠⲢⲰⲘⲈ ⲈⲦ Ⲙ̅ⲘⲀⲨ  that man
+ⲚⲈⲬⲎⲨ ⲈⲦ Ⲙ̅ⲘⲀⲨ  those ships
+
+3.2 Greek Nouns
+
+The typical Coptic text contains a large number of Greek loanwords. Greek masculine and femenine nouns retain their gender; Greek neuter nouns are treated as masculine:
+
+ο αγγελος	ⲠⲀⲄⲄⲈⲖⲞⲤ	the angel
+η επιστολη	ⲦⲈⲠⲒⲤⲦⲞⲖⲎ	the letter
+η φυχη		ⲦⲈⲮⲨⲬⲎ		the soul
+το πυευμα	ⲠⲈⲠⲚⲈⲨⲘⲀ	the spirit
+το δωρου	ⲠⲀⲰⲢⲞⲚ		the gift
+
+Greek nouns appear in the nominative singuler form of Greek and are usually not inflected in any way. Occasionally, however, a Coptic plural ending is added to a Greek noun:
+
+Ⲛ̅ⲈⲠⲒⲤⲦⲞⲖⲞⲞⲨⲈ	the letters
+ⲚⲈⲮⲨⲬⲞⲞⲨⲈ		the souls
+
+The Greek noun η ϑαλασσα (the sea) was borrowed as Ⲧ.ϨⲀⲖⲀⲤⲤⲀ, i.e. θ was taken as the definite article plus ϩ. Thus, "a sea" is ⲞⲨϨⲀⲖⲀⲤⲤⲀ.
+
+Initial χ, φ, ϑ, ψ, ξ of Greek nouns are considered two consonants in attaching the definite article (cf. Intro. , p. x).
+
+ⲦⲈ.ⲬⲰⲢⲀ			the country
+ⲚⲈ.ⲪⲒⲖⲞⲤⲞⲪⲞⲤ	the philosopher
+ⲦⲈ.ⲮⲨⲬⲎ			the soul
+ⲦⲈ.ⲐⲨⲤⲒⲀ		the offering
+
+Vocabulary 3
+
