@@ -10,7 +10,7 @@ Sahidic Coptic is written in the Greek alphabet augmented by six letters borrowe
 ⲉ e
 ⲍ z
 
-ⲏ ebar
+ⲏ ē
 ⲑ th
 ⲓ i
 ⲕ k
@@ -31,13 +31,13 @@ Sahidic Coptic is written in the Greek alphabet augmented by six letters borrowe
 ⲫ ph
 ⲭ kh
 ⲯ ps
-ⲱ obar
+ⲱ ō
 
-ϣ s-hacek
+ϣ š
 ϥ f
 ϩ h
-ϫ j, g-hacek
-ϭ c-hacek, c
+ϫ j, ğ
+ϭ č, c
 ϯ ti
 
 The following paragraphs deal with the Coptic, not the Greek, pronunciation of this alphabet.
@@ -72,9 +72,9 @@ a. The Consonants
 
 ϩ was probably like English *h* in *hope*.
 
-ϫ is conventionally pronounced like the *j* of *judge*. Its actual pronunciation was probably closer to that of the [t^y] of *tune*. [1]
+ϫ is conventionally pronounced like the *j* of *judge*. Its actual pronunciation was probably closer to that of the [tʸ] of *tune*. [1]
 
-ϭ, conventionally like the *ch* of *church*, was probably closer to the [k^y] of *cue*, *cute*.
+ϭ, conventionally like the *ch* of *church*, was probably closer to the [kʸ] of *cue*, *cute*.
 
 ϯ is merely a graphic symbol for ⲧ + ⲓ, but it was the normal way to spell this sequence of sounds. E.g. ϯⲙⲉ village (*time*).
 
