@@ -1,0 +1,88 @@
+Lesson 1
+
+1.1 Gender
+
+There are two grammatical genders in Coptic: masculine and femenine. Nouns denoting male beings are usually masculine; those denoting females, femenine. The gender of other nouns cannot, in general, be deduced either from their form or meaning and must be learned for each noun. Examples:
+
+Masculine
+ⲈⲒⲰⲦ	father
+ⲔⲀϨ		earth, ground
+ϨⲞⲞⲨ	day
+
+Femenine
+ⲘⲀⲀⲨ	mother
+ⲠⲈ		sky, heaven
+ⲞⲨϢⲎ	night
+
+There are some pairs of nouns where a formal relationship exists between the masculine and the femenine form:
+
+masculine 			feminine
+ⲤⲞⲚ		brother		ⲤⲰⲚⲈ	sister
+ϢⲎⲢⲈ	boy, son	ϢⲈⲈⲢⲈ	girl, daughter
+ϨⲖ̄ⲖⲞ	old man 	ϨⲖ̄ⲖⲰ	old woman
+ⲞⲨϨⲞⲢ	dog (male)	ⲞⲨϨⲰⲢⲈ	dog (female)
+
+These will be noted in the lesson vocabularies. The derivational process involved is no longer a productive one in Coptic: such pairs cannot be formed at will.
+
+1.2 Number: singular and plural.
+
+Only a relatively small number of nouns have preserved a distinct plural form. For example:
+
+singular			plural
+ⲈⲒⲰⲦ	father		ⲈⲒⲞⲦⲈ	fathers
+ⲤⲞⲚ		brother		ⲤⲚⲎⲨ	brothers
+ϪⲞⲒ		ship		ⲈϪⲎⲨ	ships
+
+The plural is otherwise made explicit by the form of the article (see below), the noun itself remaining unchanged.
+
+Those plurals that are in common use will be given in the lesson vocabularies along with the singular. They should be learned as they occur, since there is no consistent pattern for their formation.
+
+1.3 The definite article.
+
+The definite article has the forms
+
+masc. sing.		Ⲛ, ⲚⲈ
+fem. sing.		Ⲧ, ⲦⲈ
+common plural 	Ⲛ̄, ⲚⲈ
+
+These are attached directly to the noun, as in
+
+ⲢⲰⲘⲈ	man 	ⲠⲢⲰⲘⲈ	the man 	Ⲛ̄ⲢⲰⲘⲈ	the men
+ϬⲒϪ		hand	ⲦϬⲒϪ		the hand	Ⲛ̄ϬⲒϪ	the hands
+
+The plural article appears as Ⲙ̄ before Ⲡ and Ⲙ (cf. Intro, p.xvi):
+
+ⲠⲈ 		sky		ⲦⲠⲈ		the sky		Ⲙ̄ⲠⲎⲨⲈ	the heavens
+ⲘⲀⲈⲒⲚ	sign 	ⲠⲘⲀⲈⲒⲚ	the sign 	Ⲙ̄ⲘⲀⲈⲒⲚ	the signs
+
+Before nouns beginning with a vowel the plural article appears as either Ⲛ̄ or Ⲛ:
+
+ⲈϪⲎⲨ	ships	Ⲛ̄ⲈϪⲎⲨ or ⲚⲈϪⲎⲨ		the ships
+
+Before initial stroked consonants there are several possibilities:
+
+Ⲛ̄ⲦⲞⲚ, ⲈⲘⲦⲞⲚ 	repose	ⲠⲈⲘⲦⲞⲚ, ⲠⲘ̄ⲦⲞⲚ, ⲠⲈⲘⲦⲞⲚ	the repose
+Ⲛ̄ⲔⲀ, ⲈⲚⲔⲀ		thing	ⲚⲈⲚⲔⲀ, ⲚⲚ̄ⲔⲀ, Ⲛ̄Ⲛ̄ⲔⲀ		the things
+
+The fuller forms of ⲠⲈ-, ⲦⲈ-, ⲚⲈ- are used regularly before nouns beginning with two consonants:
+
+ⲔⲖⲞⲘ	crown	ⲠⲈⲔⲖⲞⲘ		the crown	ⲚⲈⲔⲖⲞⲘ	the crowns
+ⲤϨⲒⲘⲈ	woman	ⲦⲈⲤϨⲒⲘⲈ		the woman	ⲚⲈϨⲒⲞⲘⲈ	the women
+
+Note that ⲞⲨ and (Ⲉ)Ⲓ have a consonantal value (*w* and *y* respectively) in certain initial situations:
+
+ⲞⲨϨⲞⲢ 	dog 	ⲠⲈⲨϨⲞⲢ the dog (*pewhor*)	ⲚⲈⲨϨⲞⲞⲢ	the dogs
+ϨⲒⲎ		road	ⲦⲈϨⲒⲎ	the road (*tehyē*)	ⲚⲈϨⲒⲞⲞⲨⲈ	the roads
+
+The fuller forms are also used with certain nouns denoting periods of time:
+
+ⲠⲈⲞⲨⲞⲈⲒϢ	the time
+ⲠⲈϨⲞⲞⲨ		the day
+ⲦⲈⲨⲚⲞⲨ		the hour  (ⲞⲨⲚⲞⲨ)
+ⲦⲈⲢⲞⲘⲠⲈ	the year
+ⲦⲈⲨϢⲎ		the night (ⲞⲨϢⲎ)
+
+Note that ⲞⲨⲚⲞⲨ and ⲞⲨϢⲎ fall under the two-consonant rule above.
+
+1.4 Prepositions
+
