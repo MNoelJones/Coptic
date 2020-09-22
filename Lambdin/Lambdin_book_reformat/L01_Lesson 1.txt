@@ -86,3 +86,41 @@ Note that ⲞⲨⲚⲞⲨ and ⲞⲨϢⲎ fall under the two-consonant rule abov
 
 1.4 Prepositions
 
+Coptic prepositions are proclitic (i.e. unstressed and bound) to the word they govern. In many texts some or all of the prepositions are printed as a unit with the following word: ϨⲒⲠϪⲞⲒ on the ship, ⲈⲠⲎⲒ to the house. In this text, however, all prepositions will be printed as separate words: ϨⲒ ⲠϪⲞⲒ, Ⲉ ⲠⲎⲒ. An exception will be made only in the case of the preposition Ⲉ (to, for) if it is ligatured orthographically to a following ⲞⲨ- as ⲈⲨ-.
+
+The preposition ⲘⲚ̄ (with) is used as a conjunction "and" in joining two nouns: ⲠⲢⲰⲘⲈ ⲘⲚ̄ ⲦⲈⲤϨⲒⲘⲈ the man and the woman.
+
+A definite noun followed by a prepositional phrase or local adverb (e.g. Ⲙ̄ⲘⲀⲨ there) constitutes a full predication (sentence) in Coptic:
+
+ⲠⲢⲰⲘⲈ ϨⲒ ⲠϪⲞⲒ.		The man is on the ship.
+ⲦⲈⲤϨⲒⲘⲈ ϨⲘ̄ ⲠⲎⲒ.		The woman is in the house.
+ⲚⲈϪⲎⲨ Ⲙ̄ⲘⲀⲨ.		The ships are there.
+
+In sentences of this type there is no overt equivalent of English "is/are." We shall refer to sentences of this type as sentences with adverbial predicates.
+
+Vocabulary 1
+
+In lesson vocabularies all nouns will be given with the definite article, separated from the noun by a period. This device makes both the gender of the noun and the correct form of the article clear at a glance. To save space, the article is not included in the definition.
+
+Prepositions and particles which regularly have assimilation of the final Ⲛ̄ to Ⲙ̄ before Ⲡ and Ⲙ will be noted, as  e.g. ϨⲚ̄ (ϨⲘ̄).
+
+ⲠⲢⲰⲘⲈ
+ⲦⲈⲤϨⲒⲘⲈ ⲚⲈϨⲒⲞⲘⲈ
+ⲚϨⲖ̄ⲖⲞ 
+ⲐⲖ̄ⲖⲰ ⲦϨⲖ̄ⲖⲰ
+ⲠϪⲰⲰⲘⲈ
+ⲠⲰⲚⲈ
+ⲦⲈϨⲒⲎ ⲚⲈϨⲒⲞⲞⲨⲈ
+ⲠⲦⲞⲞⲨ
+ⲠⲎⲒ
+ⲠⲚⲞⲨⲂ
+ϨⲚ̄ (ϨⲘ̄)
+ϨⲀ
+ϨⲒ
+ϨⲒϪⲚ̄ (ϨⲒϪⲘ̄)
+ⲘⲚ̄
+
+Exercises
+
+A
+1.
