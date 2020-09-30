@@ -6,19 +6,19 @@ Pronomial possession is indicated by inserting a bound form of the appropriate p
 
 			masc. sing. noun			fem. sing. noun
 sg. 1 com. 	ⲠⲀⲈⲒⲰⲦ		my father 		ⲦⲀⲘⲀⲀⲨ		my mother
-	2 masc.	ⲠⲈⲔⲈⲒⲰⲦ		your father		ⲦⲈⲔⲘⲀⲀⲨ		your mother
-	2 fem.	ⲠⲞⲨⲈⲒⲰⲦ		your father 	ⲦⲞⲨⲘⲀⲀⲨ		your mother
-	3 masc.	ⲠⲈϤⲈⲒⲰⲦ		his father		ⲦⲈϤⲘⲀⲀⲨ		his mother
-	3 fem.	ⲠⲈⲤⲈⲒⲰⲦ		her father		ⲦⲈⲤⲘⲀⲀⲨ		her mother
+	2 masc.	ⲠⲈⲔⲈⲒⲰⲦ		your father		ⲦⲈⲔⲘⲀⲀⲨ	your mother
+	2 fem.	ⲠⲞⲨⲈⲒⲰⲦ		your father 	ⲦⲞⲨⲘⲀⲀⲨ	your mother
+	3 masc.	ⲠⲈϤⲈⲒⲰⲦ		his father		ⲦⲈϤⲘⲀⲀⲨ	his mother
+	3 fem.	ⲠⲈⲤⲈⲒⲰⲦ		her father		ⲦⲈⲤⲘⲀⲀⲨ	her mother
 pl. 1 com.	ⲠⲈⲚⲈⲒⲰⲦ		our father		ⲦⲈⲚⲘⲀⲀⲨ 	our mother
 	2 com.	ⲠⲈⲦⲚ̄ⲈⲒⲰⲦ 	your father		ⲦⲈⲦⲚ̄ⲘⲀⲀⲨ	your mother
-	3 com.	ⲠⲈⲨⲈⲒⲰⲦ		their father	ⲦⲈⲨⲘⲀⲀⲨ		their mother
+	3 com.	ⲠⲈⲨⲈⲒⲰⲦ		their father	ⲦⲈⲨⲘⲀⲀⲨ	their mother
 
 		plural noun (my brothers, etc.)
 sg. 1 com.	ⲚⲀⲤⲚⲎⲨ
     2 masc.	ⲚⲈⲔⲤⲚⲎⲨ
     2 fem.	ⲚⲞⲨⲤⲚⲎⲨ
-    3 masc.	ⲚⲈϤⲚⲎⲨ
+    3 masc.	ⲚⲈϤⲤⲚⲎⲨ
     3 fem.	ⲚⲈⲤⲤⲚⲎⲨ
 pl. 1 com.	ⲚⲈⲚⲤⲚⲎⲨ
 	2 com.	ⲚⲈⲦⲚ̄ⲤⲚⲎⲨ
