@@ -62,23 +62,22 @@ Vocabulary 5
 Ⲡ.ⲈⲢⲠⲈ, Ⲡ.Ⲣ̄ⲠⲈ (pl. Ⲛ̄.Ⲣ̄ⲠⲎⲨⲈ)	temple.
 Ⲡ.ⲘⲎⲎϢⲈ						crowd, throng.
 Ⲡ.ϨⲀⲒ							husband.
-Ⲧ.ϬⲞⲘ 							
-Ⲧ.ⲘⲎⲦⲈ
-Ⲛ̄/ϨⲚ̄ ⲦⲘⲎⲦⲈ Ⲛ̄
-Ⲡ.ϬⲀⲘⲞⲨⲖ (f. Ⲧ.ϬⲀⲘⲀⲨⲖⲈ)
-ⲘⲈϢⲀⲔ (adv.)
+Ⲧ.ϬⲞⲘ 							power, strength.
+Ⲧ.ⲘⲎⲦⲈ							middle, midst; Ⲛ̄/ϨⲚ̄ ⲦⲘⲎⲦⲈ Ⲛ̄ in the middle/midst of.
+Ⲡ.ϬⲀⲘⲞⲨⲖ (f. Ⲧ.ϬⲀⲘⲀⲨⲖⲈ)		camel.
+ⲘⲈϢⲀⲔ (adv.)					perhaps.
 
-ⲠⲈⲬⲢⲒⲤⲦⲞⲤ
-ⲠⲈⲨⲀⲄⲄⲈⲖⲒⲞⲚ
-ⲦⲠⲀⲢⲐⲈⲚⲞⲤ
-ⲦⲞⲢⲒⲚⲎ
-ⲠⲀⲤⲠⲀⲤⲘⲞⲤ
-ⲠⲤⲰⲦⲎⲢ
+ⲠⲈⲬⲢⲒⲤⲦⲞⲤ	(ὁ χριστος)			the Christ, regularly abbr. ⲭ̅ⲥ̅.
+ⲠⲈⲨⲀⲄⲄⲈⲖⲒⲞⲚ	(τὁ εὐαγγἐλιον)		gospel
+ⲦⲠⲀⲢⲐⲈⲚⲞⲤ (ἡ μαρ?ἐνος)			virgin; young woman.
+ⲦⲞⲢⲒⲚⲎ (ἡ ὁρεινἠ)				mountain district, hill-country.
+ⲠⲀⲤⲠⲀⲤⲘⲞⲤ (ὁ ἀοπασμὀσ)			greeting.
+ⲠⲤⲰⲦⲎⲢ (ὁ σωτἠρ)				savior, redeemer; sometimes abbreviated as ⲥ̅ⲱ̅ⲣ̅.
 
-ⲈⲖⲒⲤⲀⲂⲈⲦ
-ⲘⲀⲢⲒⲀ
-ⲒⲰⲤⲎⲪ
-ⲌⲀⲬⲀⲢⲒⲀⲤ
-ⲒⲰϨⲀⲚⲚⲎⲤ
+ⲈⲖⲒⲤⲀⲂⲈⲦ							Elizabeth.
+ⲘⲀⲢⲒⲀ							Mary.
+ⲒⲰⲤⲎⲪ							Joseph.
+ⲌⲀⲬⲀⲢⲒⲀⲤ							Zacharias.
+ⲒⲰϨⲀⲚⲚⲎⲤ						John.
 
 
