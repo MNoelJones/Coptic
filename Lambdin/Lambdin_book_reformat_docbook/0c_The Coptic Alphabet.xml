@@ -6,7 +6,7 @@
 
 <informaltable>
 	<tgroup>
-		<row> <entry>ⲁ</entry> <entry>a</entry></row>
+		<row> <entry><literal Lang="cop">ⲁ</literal></entry> <entry>a</entry></row>
 <row><entry>ⲃ</entry> <entry>b</entry>
 </row><entry>ⲅ</entry> <entry>g</entry>
 <row><entry>ⲇ</entry> <entry>d</entry></row>

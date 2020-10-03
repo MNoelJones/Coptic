@@ -1,13 +1,20 @@
 all: Lambdin_complete.pdf
 
-%.pdf: %.xml
-	pandoc $< -o $@ -f docbook
+%.pdf: %.xml | output
+	pandoc working/$< -o output/$@ -f docbook
 
 
-%_complete.xml: %.xml
-	xmllint $< --xinclude > $@
+%_complete.xml: %.xml | working
+	xmllint $< --xinclude > working/$@
 
+output:
+	mkdir $@
+
+working:
+	mkdir $@
 
 clean:
-	rm *_complete.pdf
-	rm *_complete.xml
+	rm working/*
+
+real-clean: clean
+	rm output/*
