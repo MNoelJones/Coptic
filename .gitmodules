@@ -1,0 +1,3 @@
+[submodule "Lambdin/Lambdin_text"]
+	path = Lambdin/Lambdin_text
+	url = git@github.com:MNoelJones/Lambdin_text.git
